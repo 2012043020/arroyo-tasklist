@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Arroyo_TaskList
+#
+
+projectname: Arroyo_TaskList
+vendorid: com.mycompany
+mainmodule: com.mycompany.arroyotasklist
